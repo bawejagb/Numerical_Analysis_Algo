@@ -10,6 +10,7 @@
 This is the repo of Numerical Analysis Algorithms implemented in **MATLAB**. 
 ### Content
 ---
+* **Numerical Integration**
 * **Least Square Approximation**
 
 
