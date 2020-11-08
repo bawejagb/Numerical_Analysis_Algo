@@ -12,5 +12,6 @@ This is the repo of Numerical Analysis Algorithms implemented in **MATLAB**.
 ---
 * **Numerical Integration**
 * **Least Square Approximation**
+* **Initial Value problem**
 
 
