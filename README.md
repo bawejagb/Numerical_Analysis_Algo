@@ -10,9 +10,12 @@
 This is the repo of Numerical Analysis Algorithms implemented in **MATLAB**. 
 ### Content
 ---
-* **Numerical Integration**
-* **Least Square Approximation**
-* **Initial Value problem**
+* **Non-Linear System of Equations**
+* **Linear System of Equations** 
+* **Eigen value and vector**
 * **Interpolation Polynomial**
+* **Least Square Approximation**
+* **Numerical Integration**
+* **Initial Value Problem**
 
 
